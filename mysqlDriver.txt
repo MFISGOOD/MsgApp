@@ -1,0 +1,2 @@
+to connect to mysql :
+Mysql Driver = add library => connectivity driver definition => …
